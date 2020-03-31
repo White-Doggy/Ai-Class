@@ -1,0 +1,33 @@
+역사
+Ai 1950년 시작
+그러나 수치관련 부분이 아닌 감성적 부분에 대한 활용은 전무했음
+
+
+Ai 의 하위 ->
+
+Machine Learning ->
+스스로 학습하도록 하는
+
+Deep Learning
+
+
+일반적인 문제
+예측을 바탕으로 진행되는 문제들
+
+
+
+Linear Regression (선형 회귀 분석)
+
+1차 함수 Hypothesis
+h(x) = wx + b
+
+비용 == H함수값과 실제 Y의 차의 평균
+이는 결국 가정된 H 함수의 정확도를 의미 J(w,b) = 1/2m SUM (h(x^i) - y^i)^2
+
+결과 - 비용 즉 J(w,b) 가 최소가 되는 w, b 를 찾는것
+
+
+
+Supervised Learning
+
+
