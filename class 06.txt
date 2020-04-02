@@ -1,0 +1,8 @@
+Binary Classification
+0, 1 == 참 거짓 만을 토대로 판단
+
+Logistic Regression
+결과 값을 0, 1로 나오게 만드는 Regression
+이를 활용해 Binary Classification에 적용
+
+시그모이드 함수 == 1, 0으로 분류하는 역할이라 볼 수 있다.
