@@ -36,3 +36,21 @@ f'(x) = df/dx = lim f(x+△x)-f(y) / △x
 △는 변화한 값을 의미
 
 즉, 변한x 값에 비해 변한 y 값의 비율을 구하는 것 == 그래서 기울기가 됨
+
+
+
+z = w(i)x + b
+시그모이드 함수 = a(z)
+
+컨백스 상태가  (완전히 U자형) 아닌 함수의 최저값은 찾기 힘들기 때문에
+L(a,y) = -(ylog(a) + (1-y)log(1-a)) 를 통해 코스트 함수를 편한 형태로 만듬 
+
+이 식을 다시 미분하여 최저점을 찾게됨
+
+
+미분 방향은 계산 방향의 반대로, 전에 했던 내용...
+
+
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+1~4 까지
