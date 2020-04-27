@@ -1,0 +1,8 @@
+Logistic Regression 다시보기
+
+z = w^T*X + b == 기본식
+y = a = a(z) == logistic 평가를 위해 0~1 사이의 값으로 변경 == hypothesis
+L(a,y) = -(ylog(a)+(1-y)log(1-a)) == cost function == 울퉁불퉁하면 평가가 힘들기에 이런 형태
+
+즉 비용 함수값이 최저가 되는 w & b 를 구하는 것이 목표
+
