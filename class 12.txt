@@ -1,0 +1,5 @@
+Pooling Layer
+
+Max pooling
+전체를 기준이 되는 영역 크기로 나누고 그중 가장 큰 값을 선별해 변형함
+
