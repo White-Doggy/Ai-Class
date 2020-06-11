@@ -3,3 +3,46 @@ Pooling Layer
 Max pooling
 전체를 기준이 되는 영역 크기로 나누고 그중 가장 큰 값을 선별해 변형함
 
+
+
+소프트 맥스 함수
+클래스별 결과를 바탕으로 총합이 1인 즉, 결과를 확률로 바꿔주는 함수를 의미
+
+
+컨벌션이 왜 좋은가?
+두 가지 특성에 기반
+
+1 파라미터 쉐어링
+컨볼루션 과정에서 인접 파라미터를 전부 같은 파라미터를 활용함으로써 단순화
+
+2 sparsity of connections
+각각의 레이어에서 각각의 결과는 오직 일부 숫자의 입력값에 의존함
+
+완전히 연결 안시켜도 연산에 문제가 없음
+
+
+
+LeNet - 5
+최초의 고전 CNN
+
+AlexNet
+딥러닝의 가능성, max pool, 
+
+VGG - 16
+간략 하면서 매우 깊은 depth == 특징을 많이 찾아낸 형태
+
+
+
+++ open source implementation
+
+CNN 관련
+
+transfer learning
+
+common augmentation method
+학습 데이터 늘리는 다양한 방식들
+
+color shifting
+
+
+~~C4 land mark detection 까지
